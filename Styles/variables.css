@@ -1,0 +1,72 @@
+
+:root {
+  /* =========================
+     BRAND COLORS
+  ========================= */
+
+  --color-primary: #0B1F3A;
+  --color-secondary: #173F73;
+  --color-gold: #C5A253;
+
+  /* =========================
+     BACKGROUND COLORS
+  ========================= */
+
+  --color-background: #F7F5EF;
+  --color-white: #FFFFFF;
+
+  /* =========================
+     TEXT COLORS
+  ========================= */
+
+  --color-text-primary: #0B1F3A;
+  --color-text-secondary: #64748B;
+  --color-text-white: #FFFFFF;
+
+  /* =========================
+     UI COLORS
+  ========================= */
+
+  --color-border: #E2E8F0;
+  --color-success: #16A34A;
+  --color-danger: #DC2626;
+  --color-warning: #F59E0B;
+
+  /* =========================
+     SHADOWS
+  ========================= */
+
+  --shadow-sm: 0 2px 8px rgba(11, 31, 58, 0.06);
+  --shadow-md: 0 4px 16px rgba(11, 31, 58, 0.10);
+  --shadow-lg: 0 8px 30px rgba(11, 31, 58, 0.12);
+
+  /* =========================
+     BORDER RADIUS
+  ========================= */
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+
+  /* =========================
+     TRANSITIONS
+  ========================= */
+
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+
+  /* =========================
+     TYPOGRAPHY
+  ========================= */
+
+  --font-primary: 'Poppins', sans-serif;
+
+  /* =========================
+     LAYOUT
+  ========================= */
+
+  --sidebar-width: 260px;
+  --header-height: 75px;
+  --container-width: 1440px;
+}
